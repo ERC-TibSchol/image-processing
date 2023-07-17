@@ -14,7 +14,7 @@ This project has received funding from the European Research Council (ERC) under
 3. `denoise_image(image)`: This function takes an image as input and reduces the noise in the image using fast non-local means denoising algorithm. It preserves the image details while reducing the noise.
 
 # Usage
-1. Update the `directory` variable in the code with the path to the directory containing your images
+1. Update the `directory` variable in the code with the path to the directory containing your images. By default, the processed images will be automatically saved to an output directory named "processed_images" within the input directory. If you want to specify a different output directory, you can update the output_directory variable in the code
 2. Create an output directory to store the processed images 
 3. Customise the image processing functions (`improve_resolution`, `sharpen_image`, and `denoise_image`) according to your requirements, if needed
 4. If any errors occur during image processing, error messages will be printed to the console. After processing all images in the directory, a completion message will be displayed

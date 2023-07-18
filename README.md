@@ -19,6 +19,6 @@ This project has received funding from the European Research Council (ERC) under
 3. Customise the image processing functions (`improve_resolution`, `sharpen_image`, and `denoise_image`) according to your requirements, if needed
 4. If any errors occur during image processing, error messages will be printed to the console. After processing all images in the directory, a completion message will be displayed
 
-# Note 
+# Notes 
 
 The code currently supports processing PNG and JPG image files. If your images have a different file format, you can modify the condition in the for loop accordingly.

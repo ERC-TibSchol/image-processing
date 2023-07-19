@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import cv2
 import os
 
@@ -24,7 +18,7 @@ def denoise_image(image):
     return denoised
 
 # Directory containing the images
-directory = r"C:\Users\Racha\OneDrive\Desktop\Test"
+directory = "path/to/your/images"
 
 # Create a directory to store the processed images
 output_directory = os.path.join(directory, "processed_images")

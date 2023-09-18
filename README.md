@@ -1,6 +1,6 @@
 # Image Processing
 
-This code is designed to enhance image quality by improving resolution, denoising, and sharpening. It requires the OpenCV library to perform image processing tasks. 
+This code is designed to enhance image quality by improving resolution, denoising, and sharpening. It requires the [OpenCV](https://opencv.org/) library to perform image processing tasks. 
 
 The script was created for the ERC project _The Dawn of Tibetan Buddhist Scholasticism (11th-13th c.) (TibSchol)_. Cf. [https://www.oeaw.ac.at/projects/tibschol](https://www.oeaw.ac.at/projects/tibschol) for more information.
 

@@ -4,7 +4,7 @@ This code is designed to enhance image quality by improving resolution, denoisin
 
 The script was created for the ERC project _The Dawn of Tibetan Buddhist Scholasticism (11th-13th c.) (TibSchol)_. Cf. [https://www.oeaw.ac.at/projects/tibschol](https://www.oeaw.ac.at/projects/tibschol) for more information.
 
-This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101001002). See https://cordis.europa.eu/project/id/101001002.
+This project, hosted at the Institute for Cultural and Intellectual History of Asia of the Austrian Academy of Sciences, has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101001002). See https://cordis.europa.eu/project/id/101001002.
 
 # Functions
 1. `improve_resolution(image, scale_percent)`: This function takes an image and a scale percentage as input and returns a high-resolution version of the image by scaling it up using the specified scale percentage.

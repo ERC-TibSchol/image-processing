@@ -1,5 +1,7 @@
 # Image Processing
 
+[DOI: 10.5281/zenodo.10450684](https://zenodo.org/records/10450684)
+
 This code is designed to enhance image quality by improving resolution, denoising, and sharpening. It requires the [OpenCV](https://opencv.org/) library to perform image processing tasks. 
 
 The script was created for the ERC project _The Dawn of Tibetan Buddhist Scholasticism (11th-13th c.) (TibSchol)_. Cf. [https://www.oeaw.ac.at/projects/tibschol](https://www.oeaw.ac.at/projects/tibschol) for more information.

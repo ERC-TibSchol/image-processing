@@ -1,6 +1,6 @@
 # Image Processing
 
-[DOI: 10.5281/zenodo.10450684](https://zenodo.org/records/10450684)
+[![DOI](https://zenodo.org/badge/667338342.svg)](https://zenodo.org/doi/10.5281/zenodo.10450683)
 
 This code is designed to enhance image quality by improving resolution, denoising, and sharpening. It requires the [OpenCV](https://opencv.org/) library to perform image processing tasks. 
 
